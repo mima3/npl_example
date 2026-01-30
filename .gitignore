@@ -1,0 +1,5 @@
+.env
+.venv
+*.duckdb
+*.duckdb.wal
+
